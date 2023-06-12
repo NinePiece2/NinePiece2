@@ -1,49 +1,119 @@
-### Hello, I'm Romit Sagu.
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-## About Me
-- Studying Computer Engineering – Software Option at Toronto Metropolitan University, graduating in 2024.
+###
 
-## Languages 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NinePiece2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=NinePiece2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NinePiece2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<h2 align="left">Languages</h2>
 
-## Technologies
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+###
 
-## Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+</div>
 
-## Operating Systems
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+###
 
-## GitHub Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinePiece2&langs_count=10&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NinePiece2&show_icons=true&theme=dark)
+<h2 align="left">Technologies</h2>
 
-## How to Reach Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/romit-sagu-971736185/)
-[<img src="https://img.shields.io/badge/Email-BB001B?style=flat-square&logo=gmail&labelColor=BB001B&logoColor=white" height="25" />](mailto:romit.sagu@hotmail.com) 
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ninepiece2)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30" alt="Keras"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="30" alt="Matplotlib"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" height="30" alt="Apache Tomcat"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" height="30" alt="plex"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="googlecloud logo"  />
+</div>
+
+###
+
+<h2 align="left">Operating Systems</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="windows8 logo"  />
+</div>
+
+###
+
+<h2 align="left">How to Reach Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/romit-sagu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:romit.sagu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/NinePiece2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NinePiece2/NinePiece2/output/snake.svg" alt="Snake animation" />
+
+###
