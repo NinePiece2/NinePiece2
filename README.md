@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Romit</h2>
 
-- I'm studying Computer Engineering – Software Option at Toronto Metropolitan University, graduating in 2024.
+- I'm studying Computer Engineering – Software Option at Toronto Metropolitan University, graduating in 2025.
 
 ###
 
@@ -18,6 +18,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="cs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -41,6 +43,10 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="30" alt=".net logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="30" alt="Microsoft SQL Server logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30" alt="Keras"  />
@@ -55,7 +61,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" height="30" alt="Apache Tomcat"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"  />
 </div>
 
 ###
@@ -69,13 +75,29 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" height="30" alt="plex"  />
+  <img src="https://cdn.simpleicons.org/visualstudio" height="30" alt="visual studio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/azuredevops/0078D7" height="30" alt="Azure DevOps logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/azureartifacts" height="30" alt="Azure Artifacts logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="30" alt="Microsoft Azure logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions" height="30" alt="github actions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubcopilot" height="30" alt="github copilot logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/brevo" height="30" alt="brevo logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" height="30" alt="plex"  />
 </div>
 
 ###
@@ -91,7 +113,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="windows8 logo"  />
+  <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="windows logo"  />
 </div>
 
 ###
@@ -107,15 +129,18 @@
   <a href="mailto:romit.sagu@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://romitsagu.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="35" alt="Portfolio logo"  />
+  </a>
   <a href="https://twitter.com/NinePiece2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
-###
+<!-- ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NinePiece2/NinePiece2/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
