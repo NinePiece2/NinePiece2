@@ -89,7 +89,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions" height="30" alt="github actions logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubcopilot" height="30" alt="github copilot logo"  />
+  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" height="30" alt="github copilot logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/brevo" height="30" alt="brevo logo"  />
   <img width="12" />
