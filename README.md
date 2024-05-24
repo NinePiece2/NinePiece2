@@ -114,6 +114,8 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="windows logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ios/FFFFFF" height="30" alt="IOS logo"  />
 </div>
 
 ###
