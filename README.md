@@ -75,15 +75,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudio" height="30" alt="visual studio logo"  />
+  <img src="/icons/visualstudio.svg" height="30" alt="visual studio logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/azuredevops/0078D7" height="30" alt="Azure DevOps logo"  />
+  <img src="/icons/azuredevops.svg" height="30" alt="Azure DevOps logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/azureartifacts" height="30" alt="Azure Artifacts logo"  />
+  <img src="/icons/azureartifacts.svg" height="30" alt="Azure Artifacts logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="30" alt="Microsoft Azure logo"  />
+  <img src="/icons/microsoftazure.svg" height="30" alt="Microsoft Azure logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
+  <img src="/icons/visualstudiocode.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git" height="30" alt="git logo"  />
   <img width="12" />
