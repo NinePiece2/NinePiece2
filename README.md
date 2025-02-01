@@ -9,7 +9,7 @@
     <img src="https://github-readme-streak-stats-ninepiece2.vercel.app?user=NinePiece2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
     <img src="https://github-readme-stats-ninepiece2.vercel.app/api/top-langs?username=NinePiece2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="165" alt="languages graph"  />
     <div align="center">
-      <img src="https://github-readme-stats-ninepiece2.vercel.app/api/wakatime?username=ninepiece2&theme=dark&locale=en&hide_border=false" height="160" alt="wakatime"/>
+      <img src="https://github-readme-stats-ninepiece2.vercel.app/api/wakatime?username=ninepiece2&theme=dark&locale=en&hide_border=false" height="225" alt="wakatime"/>
     </div
   </div>
 </div>
