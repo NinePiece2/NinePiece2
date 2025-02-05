@@ -11,6 +11,9 @@
     <div align="center">
       <img src="https://github-readme-stats-ninepiece2.vercel.app/api/wakatime?username=ninepiece2&theme=dark&locale=en&layout=compact" height="180" alt="wakatime"/>
     </div
+    <div align="center">
+      <img src="https://leetcard.jacoblin.cool/NinePiece2" height="150" alt="leetcode stats"/>
+    </div
   </div>
 </div>
 
