@@ -60,33 +60,33 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="/icons/visualstudio.svg" height="30" alt="visual studio logo"  />
+  <img src="/icons/visualstudio.svg" height="40" alt="visual studio logo"  />
   <img width="12" />
-  <img src="/icons/azuredevops.svg" height="30" alt="Azure DevOps logo"  />
+  <img src="/icons/azuredevops.svg" height="40" alt="Azure DevOps logo"  />
   <img width="12" />
-  <img src="/icons/azureartifacts.svg" height="30" alt="Azure Artifacts logo"  />
+  <img src="/icons/azureartifacts.svg" height="40" alt="Azure Artifacts logo"  />
   <img width="12" />
-  <img src="/icons/microsoftazure.svg" height="30" alt="Microsoft Azure logo"  />
+  <img src="/icons/microsoftazure.svg" height="40" alt="Microsoft Azure logo"  />
   <img width="12" />
-  <img src="/icons/visualstudiocode.svg" height="30" alt="vscode logo"  />
+  <img src="/icons/visualstudiocode.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git" height="30" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions" height="30" alt="github actions logo"  />
+  <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="github actions logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" height="30" alt="github copilot logo"  />
+  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" height="40" alt="github copilot logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/brevo" height="30" alt="brevo logo"  />
+  <img src="https://cdn.simpleicons.org/brevo" height="40" alt="brevo logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="googlecloud logo"  />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" height="30" alt="plex"  />
+  <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" height="40" alt="plex"  />
 </div>
 
 ###
@@ -96,15 +96,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="/icons/windows.svg" height="30" alt="windows logo"  />
+  <img src="/icons/windows.svg" height="40" alt="windows logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ios/FFFFFF" height="30" alt="IOS logo"  />
+  <img src="https://cdn.simpleicons.org/ios/FFFFFF" height="40" alt="IOS logo"  />
 </div>
 
 ###
@@ -115,16 +115,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/romit-sagu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:romit.sagu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://romitsagu.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="35" alt="Portfolio logo"  />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="40" alt="Portfolio logo"  />
   </a>
   <a href="https://twitter.com/NinePiece2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
 </div>
 
