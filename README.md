@@ -23,8 +23,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,java,ts,js,react,tailwind,md,py,arduino" height="40" alt="languages logos" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="next logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="next logo"  />
 </div>
 
 ###
