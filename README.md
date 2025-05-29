@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Romit</h2>
 
-- I'm studying Computer Engineering – Software Option at Toronto Metropolitan University, graduating in 2025.
+- I'm studying Computer Software Engineering Graduate.
 
 ###
 <div>
