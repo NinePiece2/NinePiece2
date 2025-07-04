@@ -23,7 +23,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,java,ts,js,react,tailwind,md,py,arduino" height="40" alt="languages logos" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="next logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" width="40" alt="next logo"  />
 </div>
 
 ###
@@ -37,13 +37,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="30" alt="Microsoft SQL Server logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" height="30" alt="Keras"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="30" alt="Matplotlib"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
   <img width="12" />
@@ -63,33 +63,33 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" width="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="/icons/visualstudio.svg" height="40" alt="visual studio logo"  />
+  <img src="/icons/visualstudio.svg" height="40" width="40" alt="visual studio logo"  />
   <img width="12" />
-  <img src="/icons/azuredevops.svg" height="40" alt="Azure DevOps logo"  />
+  <img src="/icons/azuredevops.svg" height="40" width="40" alt="Azure DevOps logo"  />
   <img width="12" />
-  <img src="/icons/azureartifacts.svg" height="40" alt="Azure Artifacts logo"  />
+  <img src="/icons/azureartifacts.svg" height="40" width="40" alt="Azure Artifacts logo"  />
   <img width="12" />
-  <img src="/icons/microsoftazure.svg" height="40" alt="Microsoft Azure logo"  />
+  <img src="/icons/microsoftazure.svg" height="40" width="40" alt="Microsoft Azure logo"  />
   <img width="12" />
-  <img src="/icons/visualstudiocode.svg" height="40" alt="vscode logo"  />
+  <img src="/icons/visualstudiocode.svg" height="40" width="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git" height="40" width="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="github actions logo"  />
+  <img src="https://cdn.simpleicons.org/githubactions" height="40" width="40" alt="github actions logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" height="40" alt="github copilot logo"  />
+  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" height="40" width="40" alt="github copilot logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/brevo" height="40" alt="brevo logo"  />
+  <img src="https://cdn.simpleicons.org/brevo" height="40" width="40" alt="brevo logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" width="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" width="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" height="40" alt="plex"  />
+  <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" height="40"  alt="plex"  />
 </div>
 
 ###
@@ -99,17 +99,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" width="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" width="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" width="40" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="/icons/windows.svg" height="40" alt="windows logo"  />
+  <img src="/icons/windows.svg" height="40" width="40" alt="windows logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ios/FFFFFF" height="40" alt="IOS logo"  />
+  <img src="https://cdn.simpleicons.org/ios/FFFFFF" height="40" width="40" alt="IOS logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/macOS/FFFFFF" height="40" alt="MAC logo"  />
+  <img src="https://cdn.simpleicons.org/macOS/FFFFFF" height="40" width="40" alt="MAC logo"  />
 </div>
 
 ###
