@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Romit</h2>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FF8E00&width=435&lines=Full+Stack+Software+Developer;Home+Lab+Enthusiast+;Backend+Engineer;Obligated+Engineer;Cloud+Computing+Aficionado" alt="Typing SVG" /></a>
+
 - I'm a Computer Software Engineering Graduate.
 
 ###
