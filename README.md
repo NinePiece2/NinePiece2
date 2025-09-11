@@ -8,7 +8,7 @@ I'm a Computer Software Engineering Graduate.
 <div>
   <div align="center">
     <img src="https://github-readme-stats-ninepiece2.vercel.app/api?username=NinePiece2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-streak-stats-ninepiece2.vercel.app?user=NinePiece2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://github-readme-streak-stats-ninepiece2.vercel.app?user=NinePiece2&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
     <img src="https://github-readme-stats-ninepiece2.vercel.app/api/top-langs?username=NinePiece2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&size_weight=0.5&count_weight=0.5" height="165" alt="languages graph"  />
     <img src="https://leetcard.jacoblin.cool/NinePiece2?theme=dark" height="165" alt="leetcode stats"/>
     <div align="center">
