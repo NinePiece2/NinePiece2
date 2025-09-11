@@ -108,9 +108,6 @@ I'm a Computer Software Engineering Graduate.
   <a href="https://romitsagu.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="40" alt="Portfolio logo"  />
   </a>
-  <a href="https://twitter.com/NinePiece2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
 </div>
 
 <!-- ###
