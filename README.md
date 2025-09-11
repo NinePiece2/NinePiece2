@@ -2,7 +2,7 @@
 
 I'm a Computer Software Engineering Graduate.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FF8E00&width=435&lines=Full+Stack+Software+Developer;Home+Lab+Enthusiast+;Backend+Engineer;Obligated+Engineer;Cloud+Computing+Aficionado" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FF8E00&width=435&lines=Full+Stack+Software+Developer;Home+Lab+Enthusiast+;Backend+Engineer;Iron+Ring+Obligated+Engineer;Cloud+Computing+Aficionado;PC+Builder" alt="Typing SVG" /></a>
 
 ###
 <div>
