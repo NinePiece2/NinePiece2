@@ -60,11 +60,11 @@ I'm a Computer Software Engineering Graduate.
 <div align="left">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="40" alt="docker logo"  />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" width="40" alt="kubernetes logo"  />
-  <img src="/icons/visualstudio.svg" height="40" width="40" alt="visual studio logo"  />
-  <img src="/icons/azuredevops.svg" height="40" width="40" alt="Azure DevOps logo"  />
-  <img src="/icons/azureartifacts.svg" height="40" width="40" alt="Azure Artifacts logo"  />
-  <img src="/icons/microsoftazure.svg" height="40" width="40" alt="Microsoft Azure logo"  />
-  <img src="/icons/visualstudiocode.svg" height="40" width="40" alt="vscode logo"  />
+  <img src="icons/visualstudio.svg" height="40" width="40" alt="visual studio logo"  />
+  <img src="icons/azuredevops.svg" height="40" width="40" alt="Azure DevOps logo"  />
+  <img src="icons/azureartifacts.svg" height="40" width="40" alt="Azure Artifacts logo"  />
+  <img src="icons/microsoftazure.svg" height="40" width="40" alt="Microsoft Azure logo"  />
+  <img src="icons/visualstudiocode.svg" height="40" width="40" alt="vscode logo"  />
   <img src="https://cdn.simpleicons.org/git" height="40" width="40" alt="git logo"  />
   <img src="https://cdn.simpleicons.org/githubactions" height="40" width="40" alt="github actions logo"  />
   <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" height="40" width="40" alt="github copilot logo"  />
@@ -73,8 +73,8 @@ I'm a Computer Software Engineering Graduate.
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" width="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" height="40"  alt="plex"  />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" width="40" alt="vercel logo"  />
-  <img src="https://cdn.simpleicons.org/wakatime/000000" height="40" width="40" alt="wakatime logo"  />
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" width="40" alt="vercel logo"  />
+  <img src="https://cdn.simpleicons.org/wakatime/FFFFFF" height="40" width="40" alt="wakatime logo"  />
   <img src="https://cdn.simpleicons.org/cloudflareworkers/F38020" height="40" width="40" alt="cloudflare workers logo"  />
 </div>
 
