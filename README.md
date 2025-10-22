@@ -13,7 +13,7 @@ I'm a Computer Software Engineering Graduate.
     <img src="https://github-readme-leetcode-card.romitsagu.com/NinePiece2?theme=dark" height="165" alt="leetcode stats"/>
     <div align="center">
       <img src="https://github-readme-stats-ninepiece2.vercel.app/api/wakatime?username=ninepiece2&theme=dark&locale=en&layout=compact" alt="wakatime"/>
-    </div
+    </div>
   </div>
 </div>
 
@@ -24,7 +24,7 @@ I'm a Computer Software Engineering Graduate.
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,java,ts,js,react,tailwind,md,py,arduino" height="40" alt="languages logos" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,java,ts,js,react,tailwind,md,py,arduino,go,prisma" height="40" alt="languages logos" />
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" width="40" alt="next logo"  />
 </div>
 
@@ -45,8 +45,11 @@ I'm a Computer Software Engineering Graduate.
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" height="30" alt="Apache Tomcat"  />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="30" alt="redis logo"  />
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30" alt="sqlite logo"  />
 </div>
+<!---Logos from http://github.com/alexandresanlim/Badges4-README.md-Profile-->
 
 ###
 
@@ -70,6 +73,9 @@ I'm a Computer Software Engineering Graduate.
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" width="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" height="40"  alt="plex"  />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" width="40" alt="vercel logo"  />
+  <img src="https://cdn.simpleicons.org/wakatime/000000" height="40" width="40" alt="wakatime logo"  />
+  <img src="https://cdn.simpleicons.org/cloudflareworkers/F38020" height="40" width="40" alt="cloudflare workers logo"  />
 </div>
 
 ###
