@@ -17,6 +17,8 @@ I'm a Computer Software Engineering Graduate.
   </div>
 </div>
 
+<!--https://github-readme-stats-ninepiece2.vercel.app/api?username=NinePiece2&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false-->
+
 ###
 
 <h2 align="left">Languages</h2>
