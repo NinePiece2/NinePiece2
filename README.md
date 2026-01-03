@@ -15,6 +15,7 @@ I'm a Computer Software Engineering Graduate.
       <img src="https://github-readme-stats-ninepiece2.vercel.app/api/wakatime?username=ninepiece2&theme=dark&locale=en&layout=compact" alt="wakatime"/>
     </div>
   </div>
+  <a href="https://wakatime.com/@907f5a67-51c4-492a-9599-f513647ce996"><img src="https://wakatime.com/badge/user/907f5a67-51c4-492a-9599-f513647ce996.svg" alt="Total time coded since Feb 1 2025" /></a>
 </div>
 
 <!--https://github-readme-stats-ninepiece2.vercel.app/api?username=NinePiece2&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false-->
